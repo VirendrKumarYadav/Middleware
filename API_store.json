@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 20,
+    "grade": "A",
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 21,
+    "grade": "B+",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "age": 19,
+    "grade": "A-",
+    "city": "Chicago"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "age": 22,
+    "grade": "B",
+    "city": "Houston"
+  },
+  {
+    "id": 5,
+    "name": "William Wilson",
+    "age": 20,
+    "grade": "B+",
+    "city": "San Francisco"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Brown",
+    "age": 21,
+    "grade": "A",
+    "city": "Seattle"
+  },
+  {
+    "id": 7,
+    "name": "James Taylor",
+    "age": 22,
+    "grade": "B-",
+    "city": "Boston"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Martinez",
+    "age": 19,
+    "grade": "A+",
+    "city": "Miami"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Anderson",
+    "age": 20,
+    "grade": "B",
+    "city": "Dallas"
+  },
+  {
+    "id": 10,
+    "name": "Isabella Thomas",
+    "age": 21,
+    "grade": "A-",
+    "city": "Atlanta"
+  },
+  {
+    "id": 11,
+    "name": "Liam Garcia",
+    "age": 22,
+    "grade": "A",
+    "city": "San Diego"
+  },
+  {
+    "id": 12,
+    "name": "Emma Rodriguez",
+    "age": 20,
+    "grade": "B+",
+    "city": "Philadelphia"
+  },
+  {
+    "id": 13,
+    "name": "Noah Hernandez",
+    "age": 21,
+    "grade": "B-",
+    "city": "Phoenix"
+  },
+  {
+    "id": 14,
+    "name": "Ava Lopez",
+    "age": 22,
+    "grade": "A+",
+    "city": "Austin"
+  },
+  {
+    "id": 15,
+    "name": "Mia Gonzalez",
+    "age": 19,
+    "grade": "A-",
+    "city": "Denver"
+  },
+  {
+    "id": 16,
+    "name": "Elijah Perez",
+    "age": 20,
+    "grade": "B",
+    "city": "Portland"
+  },
+  {
+    "id": 17,
+    "name": "Charlotte Sanchez",
+    "age": 21,
+    "grade": "A",
+    "city": "Las Vegas"
+  },
+  {
+    "id": 18,
+    "name": "Lucas Ramirez",
+    "age": 22,
+    "grade": "B+",
+    "city": "San Antonio"
+  },
+  {
+    "id": 19,
+    "name": "Amelia Torres",
+    "age": 20,
+    "grade": "B-",
+    "city": "Minneapolis"
+  },
+  {
+    "id": 20,
+    "name": "Benjamin Flores",
+    "age": 21,
+    "grade": "A+",
+    "city": "Detroit"
+  },
+  {
+    "id": 21,
+    "name": "Harper Nguyen",
+    "age": 22,
+    "grade": "A-",
+    "city": "Salt Lake City"
+  },
+  {
+    "id": 22,
+    "name": "Evelyn Kim",
+    "age": 19,
+    "grade": "B",
+    "city": "Orlando"
+  },
+  {
+    "id": 23,
+    "name": "Logan Patel",
+    "age": 20,
+    "grade": "A",
+    "city": "Charlotte"
+  },
+  {
+    "id": 24,
+    "name": "Alexander Ali",
+    "age": 21,
+    "grade": "B+",
+    "city": "Tampa"
+  },
+  {
+    "id": 25,
+    "name": "Luna Khan",
+    "age": 22,
+    "grade": "B-",
+    "city": "Raleigh"
+  }
+]
